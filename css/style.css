@@ -1,0 +1,60 @@
+.jumbotron img{
+	width: 200px;
+	
+}
+.jumbotron{
+	background-color: #0000DE
+
+}
+
+.about hr{
+	width: 300px;
+	border-top: 5px solid #000000;
+}
+
+.about{
+background-color: #FFFF05
+}
+.form-control{
+	border: 5px solid
+}
+.foto hr{
+	width: 300px;
+	border-top: 5px solid #000000;
+}
+
+.foto{
+background-color: #FFFF05
+}
+
+.foto img{
+width: 300px
+}
+
+.Kediri{
+background-color: #FFFF05	
+}
+
+.Kediri hr{
+	width: 300px;
+	border-top: 5px solid #000000;
+}
+
+.Kediri img{
+	width: 400px
+	
+}
+
+.slg{
+background-color: #FFFF05	
+}
+
+.slg img{
+	width: 400px}
+
+	.dolo{
+background-color: #FFFF05	
+}
+
+.dolo img{
+	width: 400px
